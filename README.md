@@ -6,11 +6,27 @@ Jeu du Cookie Clicker.
 
 * Réaliser un Jeu style Cookie Clicker.    
 
-#### Lien vers les consignes: 
+#### Instructions 
 
-https://github.com/becodeorg/BXL-Lovelace-3.9/tree/master/projects/cookie-clicker
 
-#### Lien vers un Jeu de Cookie Clicker:
+#### Étape 1 : _structure de base_
+#### Étape 2 : _préparer le JS_
+#### Étape 3 : _augmenter le score_
+#### Étape 4 : _préparation du multiplicateur_
+#### Étape 5 : _utilisation du multiplicateur_
+#### Étape 6 : _prix du multiplicateur_
+#### Étape 7 : _on ne fait pas crédit_
+#### Étape 8 : _affichage du compteur_
+#### Étape 9 : _augmentation du prix_
+#### Étape 10 : _affichage du prix_
+#### Étape 11 : _autoclicker_
+#### Étape 12 : _achat d'autoclicker_
+#### Étape 13 : _achat d'un bonus_
+
+
+## Étape 14 : _désactiver les boutons (si j'ai pas le score pour acheter les améliorations)_
+
+#### Lien vers un Jeu de Cookie Clicker
 
 http://orteil.dashnet.org/cookieclicker/
 
