@@ -22,11 +22,9 @@ Jeu du Cookie Clicker.
 #### Étape 11 : _autoclicker_
 #### Étape 12 : _achat d'autoclicker_
 #### Étape 13 : _achat d'un bonus_
+#### Étape 14 : _désactiver les boutons (si j'ai pas le score pour acheter les améliorations)_
 
-
-## Étape 14 : _désactiver les boutons (si j'ai pas le score pour acheter les améliorations)_
-
-#### Lien vers un Jeu de Cookie Clicker
+### Lien vers un Jeu de Cookie Clicker
 
 http://orteil.dashnet.org/cookieclicker/
 
