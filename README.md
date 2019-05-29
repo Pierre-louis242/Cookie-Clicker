@@ -6,7 +6,7 @@ Jeu du Cookie Clicker.
 
 * Réaliser un Jeu style Cookie Clicker.    
 
-#### Instructions 
+## Instructions 
 
 
 #### Étape 1 : _structure de base_
